@@ -2,11 +2,11 @@ const data = {
   productos: [
     {
       id: 1,
-      nombre: "FIFA 22",
-      slug: "FIFA 22",
+      nombre: "FIFA 21",
+      slug: "FIFA 21",
       etiqueta: "Futbol",
       categoria: "Deporte",
-      image: "/images/Fifa22.jpg",
+      image: "/images/Fifa21.jpg",
       precio: 45,
       stock: 10,
       rating: 4.5,
@@ -47,7 +47,7 @@ const data = {
       slug: "God Of War IV",
       etiqueta: "Action",
       categoria: "Mundo Abierto",
-      image: "/images/GodOfWar.jpg",
+      image: "/images/GodOfWar1.jpg",
       precio: 60,
       stock: 14,
       rating: 4.5,
